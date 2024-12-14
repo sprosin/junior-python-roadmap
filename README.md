@@ -1,1 +1,1 @@
-# juniorplus-python-roadmap
+# Карта развития python разработчика до уровня junior/middle
